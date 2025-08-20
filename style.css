@@ -276,7 +276,7 @@ body {
 
 /* PETIT MOBILE (max-width: 480px) */
 /* PETIT MOBILE (max-width: 375px) */
-@media (max-width: 375px) {
+@media (max-width: 466px) {
     section,
     .about-content,
     .services-container,
